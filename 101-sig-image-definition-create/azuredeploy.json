@@ -34,7 +34,7 @@
         "osState": "Generalized",
         "endOfLifeDate": "2030-01-01",
         "identifier": {
-          "publisher": "cpc",
+          "publisher": "cpc1",
           "offer": "cpcOffer",
           "sku": "cpcSku"
         },
