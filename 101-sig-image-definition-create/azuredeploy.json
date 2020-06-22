@@ -34,9 +34,9 @@
         "osState": "Generalized",
         "endOfLifeDate": "2030-01-01",
         "identifier": {
-          "publisher": "myPublisher",
-          "offer": "myOffer",
-          "sku": "mySku"
+          "publisher": "cpc",
+          "offer": "cpcOffer",
+          "sku": "cpcSku"
         },
         "recommended": {
           "vCPUs": {
