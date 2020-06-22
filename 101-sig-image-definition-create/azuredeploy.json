@@ -30,7 +30,7 @@
       "location": "[parameters('location')]",
       "properties": {
         "description": "Sample Gallery Image Description",
-        "osType": "Linux",
+        "osType": "Windows",
         "osState": "Generalized",
         "endOfLifeDate": "2030-01-01",
         "identifier": {
